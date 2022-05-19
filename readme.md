@@ -29,7 +29,7 @@ Para auxiliar nas buscar temos o diagrama do banco de dados.
 
 ![plot](./DER.png)
 
-# :warning: Instruções para o desafio :warning:
+## :warning: Instruções para o desafio :warning:
 
 #### Restaurar o banco de dados
 - Abra o MySQL Workbench.
@@ -39,7 +39,7 @@ Para auxiliar nas buscar temos o diagrama do banco de dados.
 - Clique no botão :arrows_counterclockwise: `Refresh da aba Schemas` para atualizar a listagem de banco de dados.
 - Verifique se a estrutura possui todas as tabelas infromada no diagrama anterior.
 
-# Verificando sua solução :white_check_mark:
+## Verificando sua solução :white_check_mark:
 Você encontrou o assassino(a)?
 
 Use o seguinte comando para validar sua hipótese:
@@ -54,5 +54,5 @@ SELECT value FROM solution ORDER BY id DESC LIMIT 1;
 
 **Se o retorno da query for vazia você ainda não encontrou o assassino(a).**
 
-# Agora é com você! :rocket:
+## Agora é com você! :rocket:
 Use seu conhecimento do esquema do banco de dados e dos comandos SQL para descobrir quem cometeu o assassinato. Boa sorte!
