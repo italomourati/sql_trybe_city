@@ -1,6 +1,6 @@
-# :city_sunset: Boas-vindas a SQL Trybe City :city_sunset:
+# :city_sunset: Boas-vindas a Trybe City :city_sunset:
 
-### Nossa cidade precisa de sua ajuda, tevevmos um assassinato em SQL Trybe City e precisamos de pessoas experientes em SQL para resolverem esse crime intrigante.
+### Nossa cidade precisa de sua ajuda, tevemos um assassinato em Trybe City e precisamos de pessoas experientes em SQL para resolverem esse crime intrigante.
 
 ## Vamos aos fatos! :shipit:
 Um crime ocorreu e o detetive precisa de sua ajuda. O detetive deu a você o relatório da cena do crime, mas de alguma forma você o perdeu. :sweat_smile: Você lembra vagamente que o crime foi um foi um homicídio **ocorrido em 15 de janeiro de 2018** e que ocorreu em **Trybe City**. Comece recuperando o **relatório da cena do crime** correspondente do banco de dados dos departamento de polícia.
