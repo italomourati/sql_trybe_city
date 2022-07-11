@@ -56,3 +56,11 @@ SELECT value FROM solution ORDER BY id DESC LIMIT 1;
 
 ## Agora é com você! :rocket:
 Use seu conhecimento do esquema do banco de dados e dos comandos SQL para descobrir quem cometeu o assassinato. Boa sorte!
+
+## Dica
+
+Sabemos que o assassinato aconteceu:
+ - Em `15 de janeiro de 2018`
+ - Na cidade `Trybe City`
+
+Com essas informações podemos vasculhar a `crime_scene_report` para encontrar nossas testemunhas.
