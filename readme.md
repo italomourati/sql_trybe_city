@@ -3,12 +3,12 @@
 ### Nossa cidade precisa de sua ajuda, tevemos um assassinato em Trybe City e precisamos de pessoas experientes em SQL para resolverem esse crime intrigante.
 
 ## Vamos aos fatos! :shipit:
-Um crime ocorreu e o detetive precisa de sua ajuda. O detetive deu a você o relatório da cena do crime, mas de alguma forma você o perdeu. :sweat_smile: Você lembra vagamente que o crime foi um foi um homicídio **ocorrido em 15 de janeiro de 2018** e que ocorreu em **Trybe City**. Comece recuperando o **relatório da cena do crime** correspondente do banco de dados dos departamento de polícia.
+Um crime ocorreu e o detetive precisa de sua ajuda. O detetive deu a você o relatório da cena do crime, mas de alguma forma você o perdeu. :sweat_smile: Você lembra vagamente que o crime foi um homicídio **ocorrido em 15 de janeiro de 2018** e que ocorreu em **Trybe City**. Comece recuperando o **relatório da cena do crime** correspondente do banco de dados dos departamento de polícia.
 
 ## Explorando a estrutura do banco de dados :mag_right:
 Usuários experientes de SQL geralmente podem usar consultas de banco de dados para inferir a estrutura de um banco de dados. Mas cada sistema de banco de dados tem maneiras diferentes de gerenciar essas informações.
 
-Use este comando SQL para encontrar as tabelas o banco.
+Use este comando SQL para encontrar as tabelas do banco.
 
 ~~~sql
 SHOW TABLES;
@@ -33,11 +33,11 @@ Para auxiliar nas buscar temos o diagrama do banco de dados.
 
 #### Restaurar o banco de dados
 - Abra o MySQL Workbench.
-- Abra o script `dump.sql` que contem dentro do projeto.
+- Abra o script `dump.sql` que contém dentro do projeto.
 - Depois clique no ícone de raio para executar a query.
 - Aguarde alguns segundos (espere em torno de 30 segundos antes de tentar fazer algo).
 - Clique no botão :arrows_counterclockwise: `Refresh da aba Schemas` para atualizar a listagem de banco de dados.
-- Verifique se a estrutura possui todas as tabelas infromada no diagrama anterior.
+- Verifique se a estrutura possui todas as tabelas informadas no diagrama anterior.
 
 ## Verificando sua solução :white_check_mark:
 Você encontrou o assassino(a)?
