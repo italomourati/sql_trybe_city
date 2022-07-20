@@ -27,7 +27,7 @@ WHERE TABLE_SCHEMA = 'trybecity' AND TABLE_NAME ='crime_scene_report';
 ## Diagrama :page_facing_up:
 Para auxiliar nas buscar temos o diagrama do banco de dados.
 
-![plot](./DER.png)
+![plot](./ER.png)
 
 ## :warning: Instruções para o desafio :warning:
 
@@ -47,7 +47,7 @@ Use o seguinte comando para validar sua hipótese:
 Troque `Nome encontrado` pela pessoa que você encontrou.
 
 ~~~sql
-INSERT INTO solution(value) VALUES ('Nome encontrado');
+INSERT INTO accused(value) VALUES ('Nome encontrado');
 
 SELECT value FROM solution ORDER BY id DESC LIMIT 1;
 ~~~
